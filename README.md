@@ -39,6 +39,13 @@ vectors of length K = num of edges
 
 ## Functions
 - vec_curv_fun: main function
--- from adj construct big adj (multilayer)
--- compute transport
--- compute curvature
+  from adj construct big adj (multilayer)
+  compute transport
+  compute curvature
+- test_function:
+  run on cluster
+  check complete
+  resumit jobs
+- kantorovich, Kantorovich_linprog:
+  Compute Wasserstein distance
+  linprog version is faster
