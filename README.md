@@ -36,3 +36,9 @@ vectors of length K = num of edges
 - curv_i : curvature values
 - curv_c_i: curvature*cc
 - W_i transport distances
+
+## Functions
+- vec_curv_fun: main function
+-- from adj construct big adj (multilayer)
+-- compute transport
+-- compute curvature
