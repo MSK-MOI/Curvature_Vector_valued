@@ -10,7 +10,9 @@ Implemented for 2 or 3 channels
 ## Curvature definitions
 ### Edge weights (within each layer)
 edge k := gene i ~ gene j
-Markov transition $$\rho_{ij}$$
+
+Markov transition $\rho_{ij}$
+
 $$w_k=1/sqrt(\rho_{ij}+\rho_{ji})$$
 
 ## Output
